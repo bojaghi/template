@@ -10,3 +10,5 @@
 /tests/wp-test-lib/
 node_modules/
 vendor/
+
+composer.lock
